@@ -1,0 +1,12 @@
+are you happy?
+--if yes, then great
+--if meh, then get a lollipop. did that help?
+----if a lot, then great
+----if a little, then get another one
+----if not interested, which of these topics are you interested in: myeloma diagnosis, social security card, student visa?
+------if interested in macbookrepair, click the link to see the document: https://elliot2878.github.io/decision_tree.github.io/macbookrepair.txt
+------if interested in myeloma, click the link to see the document: https://elliot2878.github.io/decision_tree.github.io/myeloma.txt
+------if interested in student visa, click the link to see the document: https://elliot2878.github.io/decision_tree.github.io/studentvisa.txt
+--if no, then see a shrink
+
+
