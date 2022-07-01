@@ -578,7 +578,6 @@ After initial diagnostic workup, What are the clinical findings?
 ----------------------If Response/Stable disease, Perform maintenance therapy on clinical trial or observe. Is the disease now progressive?
 ------------------------If No, Patient is treated.
 ------------------------If Yes, Perform additional treatment by therapy for previously treated myeloma, or through a clinical trial through Donor lymphocyte infusion.
-
 --If Monoclonal gammopathies of clinical significance, Is it Monoclonal Gammopathy of Renal Significance (MGRS) or Monoclonal Gammopathy of Neurological Significance (MGNS)?
 ----If MGRS, Evaluate for kidney disease by analyzing kidney function: eGFR, urinalysis and metabolic testing. Is AKI stage 3, eGFR <60 mL/min and >2ml/min per year decline, Proteinuria (>1 g/day), Albumin:creatinine >30mg/mmol, and Fanconi syndrome OR is AKI stage 1 or 2, eGFR <60 mL/min and <2 mL/min per year decline, Albumin:creatinine 3–30mg/mmol and GFR <60mL/min, Evidence of light chain proteinuria OR is eGFR stable, urinalysis normal and no evidence of light chain proteinuria?
 ------If eGFR stable, urinalysis normal and no evidence of light chain proteinuria, Defer renal biopsy.
